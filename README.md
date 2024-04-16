@@ -1,0 +1,1 @@
+O usuário deve inserir a capacidade do tanque, a quantidade de litros abastecidos e a quilometragem percorrida desde o último abastecimento. O programa vai solicitando as informações de acordo com a necessidade. E por fim, faz o cáclulo imprimindo o valor do consumo médio e autonomia.
